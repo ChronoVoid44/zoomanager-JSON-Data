@@ -1,4 +1,4 @@
-var animalinfo = `[
+[
   {
     "id": 1,
     "animal": {
@@ -799,4 +799,4 @@ var animalinfo = `[
     },
     "owner": "Essa Stemson"
   }
-]`;
+]
